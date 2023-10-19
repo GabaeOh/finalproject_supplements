@@ -44,8 +44,8 @@
 
 ### ✔️구현 화면
 
-<img src="src/main/resources/static/images/화면정의서.png" width="800"> 
-<img src="src/main/resources/static/images/화면정의서2.png" width="800"> 
+<img src="src/main/resources/static/images/설문조사.png" width="800"> 
+<img src="src/main/resources/static/images/랭킹페이지.png" width="800"> 
 
 
 ### ✔️ERD
