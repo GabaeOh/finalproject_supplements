@@ -36,7 +36,7 @@
 ### ✔️개발 기간
 
 - 1차 : 2023년 7월 7일~ 2023년 7월 31일
-- 2차 : 2023년 9월 ~ 2023년 10월
+- 2차 : 2023년 9월 18일 ~ 2023년 10월 16일 
 
 ### ✔️구현 영상
 
@@ -49,7 +49,7 @@
 
 
 ### ✔️ERD
-- [ERD](https://github.com/hhyowon/project_supplements/blob/main/Docs/Databases/ERD.png) 
+- [ERD](https://github.com/GabaeOh/finalproject_supplements/blob/main/Docs/Databases/ERD.png) 
 
 ### ✔️팀원 및 구현 기능
 
