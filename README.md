@@ -9,51 +9,116 @@
 ## 📃콘텐츠 : 다이어트 보조제 추천 사이트 
  <strong>홈페이지 이용객의 설문조사를 기반하여 다이어트 보조제를 추천해주는 웹 사이트 입니다.</strong>
 
-### 웹 사이트 주소
+### 🌐 웹 사이트 주소
 - url
-### 프로젝트 발표
+### 📢 프로젝트 발표
 - 수주제안서 : https://drive.google.com/file/d/1YmUQKVRzeXReqGQ6nQSMrjkwI1SmuzNg/view?usp=drive_link
 - 프로젝트 최종 발표 : https://drive.google.com/file/d/1mFkEl9tV1wHMJ0vzZ83fXcrRsaOoLc9t/view?usp=drive_link
  
-### ✔️프로젝트 설명
-코로나 이후 다이어트에대한 관심도가 증가하면서 다이어트 보조제에대한 관심도 또한 증가하였습니다. 이에 기반하여 다이어트 보조제 추천 사이트를 만들고 싶어하는 의뢰팀의 프로젝트를 담당하게 되어 구현한 사이트입니다. 일반적인 추천 사이트와 다르게 사이트 이용객의 설문조사를 기반으로 보조제를 추천해 주는 사이트로 더욱 신뢰도 높은 보조제를 추천 받을 수 있습니다. 
+### 🎯 프로젝트 설명
+코로나 이후 다이어트에대한 관심도가 증가하면서 다이어트 보조제에대한 관심도 또한 증가하였습니다. 이에 기반하여 다이어트 보조제 추천 사이트를 만들고 싶어하는 의뢰팀의 프로젝트를 담당하게 되어 구현한 사이트입니다. 일반적인 추천 사이트와 다르게 사이트 이용객의 설문조사를 기반으로 보조제를 추천해 주는 사이트로 더욱 신뢰도 높은 보조제를 추천 받을 수 있습니다.
 
-#### 📌 프로젝트 주요 기능 
-- 설문조사를 기반한 보조제 추천 랭킹 
-
+### 📌 프로젝트 주요 기능
+- 설문조사를 기반한 보조제 추천 랭킹
 - 제형 및 효과별 보조제 검색 기능
 - 질문, 후기 및 추천글 공유가 가능한 커뮤니티
+- 체중과 신장을 기입하여 나의 BMI 확인 및 기록되는 BMI 페이지
 - 과거 설문정보 등 나의 기록을 저장하는 마이페이지
 - 보조제 홈페이지를 원활하게 관리하는 관리자페이지
 
-
-
-
-### ✔️사용 기술
+### 🖥️ 사용 기술
 
 <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JSP Servlet-C5E99B?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/GoormIDE-D4DFE6?style=flat&logo=&logoColor=white"/>
 
-### ✔️개발 기간
+### 📅 개발 기간
 
 - 1차 : 2023년 7월 7일~ 2023년 7월 31일
-- 2차 : 2023년 9월 18일 ~ 2023년 10월 16일 
+- 2차 : 2023년 9월 18일 ~ 2023년 10월 16일
 
-### ✔️구현 영상
+### 📝 의뢰팀 의뢰사항
+- 로그인 기능
+- 설문조사 기반 TOP3 추천
+- 설문조가 결과 통계
+- 코로나 전/후 관심도 확인
 
-- [다이어트 보조제 구현 영상](https://youtu.be/7zkeFdLxRlw?si=PAENISywPwgAXDNj)
+### 🤝 협업
+- 분석팀 : 사이트 개선을 위하여 사용자 니즈를 파악
+- 응용팀 : 사이트 기능 개선 및 유지보수
+- 협업 능력 강화
 
-### ✔️구현 화면
+### 🚀 차별성
+- 설문조사 기반으로 된 보조제 추천 사이트가 없음
+- 이 점을 기반하여 사이트 구현 및 마케팅화
 
-<img src="src/main/resources/static/images/화면정의서.png" width="800"> 
-<img src="src/main/resources/static/images/화면정의서2.png" width="800"> 
+### 🎥 구현 영상
+
+- [다이어트 보조제 구현 영상](https://www.youtube.com/watch?v=ITC1kb3Hb-8)
+
+### 🔍 구현 화면
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="src/main/resources/static/images/설문조사.png" width="400" style="margin-right: 10px;">
+  <img src="src/main/resources/static/images/검색페이지.png" width="400">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="src/main/resources/static/images/랭킹페이지.png" width="400" style="margin-right: 10px;">
+  <img src="src/main/resources/static/images/커뮤니티.png" width="400">
+</div>
 
 
-### ✔️ERD
+### 🗄️ ERD
 - [ERD](https://github.com/GabaeOh/finalproject_supplements/blob/main/Docs/Databases/ERD.png) 
 
 ### ✔️팀원 및 구현 기능
 
-### 👩‍💻 김명곤
+| 팀원   | 오가배  | 조효원  | 송명주  | 김명곤  |
+|--------|-------------------|-----------------------|-------------------|-------------------------------------------------------|
+| 맡은 업무  | 데이터 수집 및 통합 전처리,<br>LDA 토픽 모델링을 통한 토픽 추출,<br>인사이트 도출 및 보고서 작성,<br>통계 쿼리 작성 | 팀원 업무분장 및 관리,<br>회원가입, BMI, 설문조사 관리자페이지,<br>유지 보수,<br>통계 그래프 구현 | 데이터 수집 및 전처리,<br>머신러닝 모델링 통한 감성분석,<br>인사이트 도출 및 보고서 작성,<br>통계 쿼리 작성 | 회원관리,<br>박스모델 구현,<br>권한관리,<br>유지보수 |
+
+---
+
+### 👩‍💻 오가배 
+
+<details>
+<summary>설문조사 진행 페이지</summary>
+
+- [SurveyMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/SurveyMapper.xml)
+- [SurveyController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/SurveyController.java)
+- [SurveyService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/SurveyService.java)
+
+</details>
+
+<details>
+<summary>마이페이지 회원정보 수정 </summary>
+
+- [MypageMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/MypageMapper.xml)
+- [MypageController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/MypageController.java)
+- [MypageService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/MypageService.java)
+
+</details>
+
+<details>
+<summary>마이페이지 커뮤니티 관리 </summary>
+
+- [MypageMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/MypageMapper.xml)
+- [MypageController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/MypageController.java)
+- [MypageService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/MypageService.java)
+
+</details>
+
+<details>
+<summary>관리자 페이지 커뮤니티 관리 </summary>
+
+- [AdminCommunityMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/AdminCommunityMapper.xml)
+- [AdminCommunityControll.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/AdminCommunityControll.java)
+- [AdminCommunityService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/AdminCommunityService.java)
+
+</details>
+
+<br>
+<details>
+<summary> 👩‍💻 김명곤 </summary>
 
 <details>
 <summary>Sample Code</summary>
@@ -66,6 +131,7 @@
 - [Footer.jsp](https://github.com/hhyowon/project_supplements/blob/main/src/main/webapp/WEB-INF/views/etc/Footer.jsp)
 - [list_map_ex.jsp](https://github.com/hhyowon/project_supplements/blob/main/src/main/webapp/WEB-INF/views/etc/list_map_ex.jsp)
 </details>
+
 
 <details>
 <summary>로그인</summary>
@@ -86,8 +152,10 @@
   
 </details>
 
+</details>
 
-### 👩‍💻 송명주
+<details>
+<summary> 👩‍💻 송명주 </summary>
 
 <details>
 <summary>설문조사 통계</summary>
@@ -125,7 +193,10 @@
 
 </details>
 
-### 👩‍💻 조효원
+</details>
+
+<details>
+<summary>👩‍💻 조효원 </summary>
 
 <details>
 <summary>메인페이지</summary>
@@ -177,50 +248,56 @@
 
 </details>
 
-
-### 👩‍💻 오가배 
-
-<details>
-<summary>설문조사 진행 페이지</summary>
-
-- [SurveyMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/SurveyMapper.xml)
-- [SurveyController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/SurveyController.java)
-- [SurveyService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/SurveyService.java)
-
 </details>
 
-<details>
-<summary>마이페이지 회원정보 수정 </summary>
-
-- [MypageMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/MypageMapper.xml)
-- [MypageController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/MypageController.java)
-- [MypageService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/MypageService.java)
-
-</details>
-
-<details>
-<summary>마이페이지 커뮤니티 관리 </summary>
-
-- [MypageMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/MypageMapper.xml)
-- [MypageController.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/MypageController.java)
-- [MypageService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/MypageService.java)
-
-</details>
-
-<details>
-<summary>관리자 페이지 커뮤니티 관리 </summary>
-
-- [AdminCommunityMapper.xml](https://github.com/hhyowon/project_supplements/blob/main/src/main/resources/sqlmapper/mysql/AdminCommunityMapper.xml)
-- [AdminCommunityControll.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/controller/AdminCommunityControll.java)
-- [AdminCommunityService.java](https://github.com/hhyowon/project_supplements/blob/main/src/main/java/com/example/project_supplements/service/AdminCommunityService.java)
-
-</details>
-
-
+### 분석 및 응용팀 협업사항
+- 1. 
 
 ### ✔️주요코드 및 진행 통해 느낀 점
 
-### 👍 김명곤
+### 👍 오가배
+
+```
+        List surveyMapList = new ArrayList<Map>();
+        for (String questionId : dataMap.keySet()) {
+            Map<String, String> questionAnswerMap = new HashMap<>();
+            String answerId = (String) dataMap.get(questionId);
+            questionAnswerMap.put("QuestionId", questionId);
+            questionAnswerMap.put("AnswerId", answerId);
+            questionAnswerMap.put("SURVEY_ID", this.generateUUID());
+            surveyMapList.add(questionAnswerMap);
+        }
+        dataMap.put("surveyMapList", surveyMapList);
+        // 부모테이블 값 insert 먼저 시키기
+        String SURVEY_UID = UUID.randomUUID().toString();
+        dataMap.put("USER_ID", commons.getUserID()); // user_id 받기
+        dataMap.put("SURVEY_UID", SURVEY_UID);
+        dataMap.put("DATE_TIME", new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
+        String sqlMapId = "SurveyService.insertsurveyresult";
+        Object result01 = sharedDao.insert(sqlMapId, dataMap);
+
+        // 자식테이블 insert
+
+        dataMap.put("SURVEY_TYPE_ID", "F-01");
+        sqlMapId = "SurveyService.insertsurvey";
+        Object resultMap = sharedDao.insert(sqlMapId, dataMap);
+        //String uuid = this.generateUUID();
+        return dataMap;
+
+```
+코드를 작성하기 이전에 소통이 가장 중요하다는 것을 느끼게 되었습니다. 하루마다 각자의 할당량을 끝냈을 경우 PM에게 보고함과 동시에 팀원들과 공유하면서 다른 업무를 맡고 보다 효율적으로 프로젝트를 진행해나갔습니다. 더불어 아무리 내가 원하는 방향이 있다고 해도 의뢰팀이 원하는 방향으로 프로젝트가 완성이 되어야하고, 의뢰팀의 만족을 해야하기 때문에 PM을 통해 꾸준히 의뢰팀과도 소통하면서 올바른 방향으로 프로젝트가 이루어질 수 있었습니다. 팀원분들과 원활한 소통과 협업 덕분에 조금 더 빠르고 효율적으로 프로젝트를 진행해 나갈수 있었습니다.
+
+설문조사 결과값을 DB에 넣는 과정에서 NAME과 VALUE값을 효율적으로 연결하는 법과 DB에 INSERT를 시키기 위해서는
+부모테이블을 먼저 insert를 시켜야 자식테이블에 insert가 가능하다는 점을 확실히 인지하였습니다.
+더불어 참조 받은 fk값인 SURVEY_UID는 UUID로 받는데 동일한 UUID임을 인지시켜줘야 부모테이블 및 자식테이블이 insert가 된다는 점을 통해
+ERD를 명확하게 이해해야 나머지 코드를 조금 더 수월하게 진행해 나갈 수 있음을 알게 되었습니다.
+
+해당 프로젝트로 인해 고객이 입력하는 데이터가 DB까지 가는 부분의 흐름도를 직접 코드를 풀어나가면서 이해할 수 있었습니다. 마지막으로 부모와 자식테이블의 관계의 중요성을 확실히 깨닫게 된 프로젝트였습니다.
+
+---
+
+<details>
+<summary> 👍 김명곤 </summary>
 
 ```
 <%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
@@ -244,8 +321,8 @@ public class SecurityConfiguration {
                         .anyRequest().permitAll() //그외 전체 대상
                 ;
                 httpSecurity.formLogin(login -> login.loginPage("/loginForm") //로그인 하지 않은 사람이 로그인한 후에 접근 가능한 페이지를 눌렀을때 로그인 폼을 띄어라
-                                .failureUrl("/loginForm?fail=true") 
-                                .loginProcessingUrl("/login") 
+                                .failureUrl("/loginForm?fail=true")
+                                .loginProcessingUrl("/login")
                                 .defaultSuccessUrl("/")); //로그인 하고 나면 메인으로 간다
                 httpSecurity.logout(logout -> logout
                                 .logoutSuccessUrl("/home")
@@ -257,16 +334,20 @@ public class SecurityConfiguration {
                  @Bean
         public BCryptPasswordEncoder encoderPasswordEncoder() {
                 return new BCryptPasswordEncoder();
-        }       
+        }
 ```
         코드의 중요함 보다 팀원들을 믿고 나아가는 저를 보면서 힘든 프로젝트를 진행 할 수 있겠다 라는 힘을 얻었습니다.
-        PM을 필두로 팀원과 원활한 소통과 협업을 통해 효율적으로 프로젝트를 진행 할 수 있었고, 9998의 팀 이름처럼 나이 차이가 났지만 
+        PM을 필두로 팀원과 원활한 소통과 협업을 통해 효율적으로 프로젝트를 진행 할 수 있었고, 9998의 팀 이름처럼 나이 차이가 났지만
         어느 누구 의견하나도 놓치지 않고 수용하여 결국 완성을 하였습니다.
         이번 프로젝트에서 Back End Sample CODE가 제 임무였고 코드 진행에 있어서 많은 이해도가 증가 되었습니다.
         특히 MVC 모델, 관리자 권한인 AUTH 부분, CRUD, 회원 정보 암호화 등등 그동안 배웠던 부분을 모두 사용했다고 생각합니다.
         마지막으로 힘든 일정에 지치지 않고 으쌰으쌰 힘내준 우리 팀원들에게 감사인사 올립니다.
         
-### 👍 송명주
+</details>
+
+<details>
+
+<summary> 👍 송명주 </summary>
 
 ```
       SELECT T_SURVEYOPT.SURVEY_OPT_URL AS SURVEY_RANK_FIRST
@@ -303,14 +384,16 @@ public class SecurityConfiguration {
         result.put("deleteCount", this.resultdelete(dataMap));
         result.putAll(this.selectWithPagination(dataMap));
         return result;
-        }   
+        }
 ```
-    랭킹을 구현하기 위한 쿼리문을 작성하는데 있어서 
+    랭킹을 구현하기 위한 쿼리문을 작성하는데 있어서
+
+</details>
 
 
-----
+<details>
 
-### 👍 조효원
+<summary> 👍 조효원 </summary>
 
 ```
         <% Paginations paginations=(Paginations)result.get("paginations"); %>
@@ -330,7 +413,7 @@ public class SecurityConfiguration {
                 <% } %>
                 <li class="page-item">
                   <a class="page-link" href="/adminproduct/selectSearch?currentPage=<%= paginations.getNextPage() %>&search=<%= params.getOrDefault("search", "") %>&words=<%= params.getOrDefault("words", "") %>">Next</a>
-                </li> 
+                </li>
             </ul>
           </nav>
         </div>
@@ -342,7 +425,7 @@ public class SecurityConfiguration {
               
                 String uuid = commons.generateUUID(); // user_id 받기 (수정)
                 dataMap.put("PRODUCT_UID", uuid);
-                dataMap.put("USER_ID", commons.getUserID()); 
+                dataMap.put("USER_ID", commons.getUserID());
             } else {
                 
             }
@@ -351,62 +434,21 @@ public class SecurityConfiguration {
             HashMap result = (HashMap) this.selectWithPagination(dataMap);
             return result;
         
-        }    
+        }
 }
 
 ```
 
  프로젝트 시작이 여름이라는 계절 특성상 다이어트 보조제에 대한 관심이 있었습니다. 그래서 다이어트 보조제 사이트를 요청한 팀의 프로젝트를 맡고자 했고,  수주 제안서를 가지고 격렬한 PT 경쟁 끝에 이 프로젝트를 담당하게 되었습니다. 처음으로 내가 생각하는 웹 사이트를 구현하는 것이 아니라 수주-의뢰 관계를 기반으로  프로젝트를 수행하는 것이었기 때문에 더 큰 책임감을 느꼈습니다. 먼저,  의뢰한 팀이 웹 사이트에 어떤 내용을 보여주고 어떤 기능을 중요하게 생각하는지 정확하게 파악했습니다. 애매하거나 더 자세한 설명이 필요한 사항들은 Excel로 정리하여 저의 팀 PM에게 제출하고 회의하는 과정을 거쳤고, 그 후 우리와 의뢰팀 PM끼리의  미팅을 통해 더 정확한 방향을 얻을 수 있었습니다. 이 과정을 통해 의사 소통의 중요성과 프로젝트에 대한 이해도의 중요성을 깨닫게 되었습니다.
 
-이 프로젝트에서 주로 검색(search) 및 페이지네이션(pagination) 기능을 구현하는 부분을 담당했습니다. 이러한 기능은 간단해 보일 수 있지만, 올바르게 작동할 때 프로젝트의 완성도를 높이는 데 중요한 역할을 합니다. 특히 페이지네이션을 구현할 때 페이지 번호와 검색어와 같은 매개변수 값이 동적으로 변경될 때, 이를 올바르게 처리하고 쿼리 매개변수의 형태로 전달하는 것이 어려웠습니다. 이 문제를 해결하기 위해 페이지 번호 및 검색어와 같이 동적으로 변하는 매개변수 값을 URL 쿼리 매개변수로 전달하는 방법을 공부하고 구현했습니다. 이 과정을 통해 페이지네이션과 검색 기능을 프로젝트에 성공적으로 통합하였습니다. 
+이 프로젝트에서 주로 검색(search) 및 페이지네이션(pagination) 기능을 구현하는 부분을 담당했습니다. 이러한 기능은 간단해 보일 수 있지만, 올바르게 작동할 때 프로젝트의 완성도를 높이는 데 중요한 역할을 합니다. 특히 페이지네이션을 구현할 때 페이지 번호와 검색어와 같은 매개변수 값이 동적으로 변경될 때, 이를 올바르게 처리하고 쿼리 매개변수의 형태로 전달하는 것이 어려웠습니다. 이 문제를 해결하기 위해 페이지 번호 및 검색어와 같이 동적으로 변하는 매개변수 값을 URL 쿼리 매개변수로 전달하는 방법을 공부하고 구현했습니다. 이 과정을 통해 페이지네이션과 검색 기능을 프로젝트에 성공적으로 통합하였습니다.
 
 이번 프로젝트를 통해 시스템 흐름도에 따라 어떻게 흘러가고 작동되는지 자세히 이해하게 되었습니다. 또한 수주-의뢰 방식의 프로젝트 경험 덕에 저의 개발역량을 향상시키는데 도움이 되었습니다.
 
 ---
-### 👍 오가배
+</details>
 
-```
-        List surveyMapList = new ArrayList<Map>();
-        for (String questionId : dataMap.keySet()) {
-            Map<String, String> questionAnswerMap = new HashMap<>();
-            String answerId = (String) dataMap.get(questionId);
-            questionAnswerMap.put("QuestionId", questionId);
-            questionAnswerMap.put("AnswerId", answerId);
-            questionAnswerMap.put("SURVEY_ID", this.generateUUID());
-            surveyMapList.add(questionAnswerMap);
-        }
-        dataMap.put("surveyMapList", surveyMapList);
-        // 부모테이블 값 insert 먼저 시키기 
-        String SURVEY_UID = UUID.randomUUID().toString(); 
-        dataMap.put("USER_ID", commons.getUserID()); // user_id 받기
-        dataMap.put("SURVEY_UID", SURVEY_UID);
-        dataMap.put("DATE_TIME", new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
-        String sqlMapId = "SurveyService.insertsurveyresult";
-        Object result01 = sharedDao.insert(sqlMapId, dataMap);
-
-        // 자식테이블 insert
-
-        dataMap.put("SURVEY_TYPE_ID", "F-01");
-        sqlMapId = "SurveyService.insertsurvey";
-        Object resultMap = sharedDao.insert(sqlMapId, dataMap);
-        //String uuid = this.generateUUID();
-        return dataMap;
-
-```
-코드를 작성하기 이전에 소통이 가장 중요하다는 것을 느끼게 되었습니다. 하루마다 각자의 할당량을 끝냈을 경우 PM에게 보고함과 동시에 팀원들과 공유하면서 다른 업무를 맡고 보다 효율적으로 프로젝트를 진행해나갔습니다. 더불어 아무리 내가 원하는 방향이 있다고 해도 의뢰팀이 원하는 방향으로 프로젝트가 완성이 되어야하고, 의뢰팀의 만족을 해야하기 때문에 PM을 통해 꾸준히 의뢰팀과도 소통하면서 올바른 방향으로 프로젝트가 이루어질 수 있었습니다. 팀원분들과 원활한 소통과 협업 덕분에 조금 더 빠르고 효율적으로 프로젝트를 진행해 나갈수 있었습니다. 
-
-설문조사 결과값을 DB에 넣는 과정에서 NAME과 VALUE값을 효율적으로 연결하는 법과 DB에 INSERT를 시키기 위해서는 
-부모테이블을 먼저 insert를 시켜야 자식테이블에 insert가 가능하다는 점을 확실히 인지하였습니다. 
-더불어 참조 받은 fk값인 SURVEY_UID는 UUID로 받는데 동일한 UUID임을 인지시켜줘야 부모테이블 및 자식테이블이 insert가 된다는 점을 통해 
-ERD를 명확하게 이해해야 나머지 코드를 조금 더 수월하게 진행해 나갈 수 있음을 알게 되었습니다. 
-
-해당 프로젝트로 인해 고객이 입력하는 데이터가 DB까지 가는 부분의 흐름도를 직접 코드를 풀어나가면서 이해할 수 있었습니다. 마지막으로 부모와 자식테이블의 관계의 중요성을 확실히 깨닫게 된 프로젝트였습니다. 
-
-
-
----
-
-### 🏠 9998팀 문화 
+### 🏠 9998팀 문화
 ### 1. 데일리 미팅
 - 매일 아침 각자 그 날 해야하는 작업에대해 공유하기
 - 작업진행정도에대해서 공유하기
@@ -414,7 +456,7 @@ ERD를 명확하게 이해해야 나머지 코드를 조금 더 수월하게 진
 
 ### 2. Merge
 - 겹치는 사항을 수정하게 된다면 merge하기 전에 공유하기
-- 완성된 코드 날리기 방지 
+- 완성된 코드 날리기 방지
 
 ### 3. 함께 고민하기
 - 자신이 담당한 부분만 신경쓰지 않고 프로젝트 진행 시 생기는 문제들 함께 고민하기
